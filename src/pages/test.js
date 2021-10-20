@@ -30,22 +30,16 @@ const TestPage = () => {
     <main style={pageStyles}>
       <title>Test Page</title>
       <h1 style={headingStyles}>test page</h1>
+      <h4>Congratz</h4>
       <p style={paragraphStyles}>
-        Sorry{" "}
-        <span role="img" aria-label="Pensive emoji">
-          😔
-        </span>{" "}
-        we couldn’t find what you were looking for.
+        we have a winner.
         <br />
-        {process.env.NODE_ENV === "development" ? (
-          <>
-            <br />
-            Try creating a page in <code style={codeStyles}>src/pages/</code>.
-            <br />
-          </>
-        ) : null}
         <br />
-        <Link to="/">Go home</Link>.
+        <p>
+          {" "}
+          Go big or
+          <Link to="/"> Go home</Link>.
+        </p>
       </p>
     </main>
   );
