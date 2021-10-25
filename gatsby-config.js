@@ -1,3 +1,22 @@
+/*
+contentful 
+cosmic 
+dato cms
+sanity
+shopify
+agility
+contentstack
+drupal
+flotiq
+graphcms
+kontent
+strapi
+wordpress
+buttercms
+prismic
+Not using any of the above? This POST endpoint should be triggered on any content change so your Preview is consistent with the state of your CMS, automatically!
+https://webhook.gatsbyjs.com/hooks/data_source/3544bd31-24e2-461d-8453-3a6179b0bc7a
+*/
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",

@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-components-layout-js-7fb4d3afd67c6dd86c3b.js","mappings":"oIAMA,UAJA,WACE,OAAO","sources":["webpack://gatsby-test/./src/pages/components/layout.js"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction Layout() {\r\n  return <div>hey</div>;\r\n}\r\n\r\nexport default Layout;\r\n"],"names":[],"sourceRoot":""}

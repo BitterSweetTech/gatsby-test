@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_test=self.webpackChunkgatsby_test||[]).push([[927],{2137:function(e,t,n){n.r(t),n.d(t,{Showcase:function(){return a}});var c=n(7294),s=n(7606),a=function(){return c.createElement("div",null,c.createElement(s.G,{icon:"check-square"}),"With Coffee Checked, these companies always know their coffee is hot and ready!")}}}]);
+//# sourceMappingURL=component---src-pages-components-showcase-js-6bb80d14501cd449355f.js.map

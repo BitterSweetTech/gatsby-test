@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_test=self.webpackChunkgatsby_test||[]).push([[441],{3852:function(e,t,n){n.r(t),n.d(t,{Beverage:function(){return a}});var c=n(7294),r=n(7606),a=function(){return c.createElement("div",null,c.createElement(r.G,{icon:"check-square"}),"Your ",c.createElement(r.G,{icon:"coffee"})," is hot and ready!")}}}]);
+//# sourceMappingURL=component---src-pages-components-beverage-js-bec5619f3ef80f52f74d.js.map
